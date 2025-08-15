@@ -1,0 +1,28 @@
+body{
+    background-color:bisque
+}
+.table{
+    border-color: black;
+}
+.insert h2{
+    text-align: center;
+    padding: 5px;
+    padding-top: 30px;
+    margin-bottom: 50px;
+}
+
+.form-control
+{
+    width: 500px;
+    
+}
+.ins{
+    margin-left:350px;
+    border: 2px;
+    border-color: antiquewhite;
+}
+.ins .btn{
+    width: 200px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
